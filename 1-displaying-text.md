@@ -8,7 +8,7 @@ file: index.html
 <!doctype html>
 <html>
  <head>
-  <meta charset="utf8">
+  <meta charset="UTF-8">
   <title>Display Info App</title>
  </head>
  <body>
