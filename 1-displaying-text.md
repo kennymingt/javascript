@@ -1,4 +1,10 @@
-#Displaying text
+# Displaying text
+* Create a basic html
+* Set the page title
+* Display static header text
+* Include a javascript file in our html
+* Get a reference to an html element and chage its text content.
+
 The html page for the application.
 We will use a div to display text to the user.
 we set an id for the div so we can grab it from javascript.
