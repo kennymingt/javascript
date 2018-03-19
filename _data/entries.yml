@@ -3,7 +3,7 @@
     - title: "project-sub1"
       items:
         - title: "project-sub1-item1"
-          href: "1-displaying-text"
+          href: "/1-displaying-text"
         - title: "project-sub1-item2"
           href: "#"
     - title: "project-sub2"
