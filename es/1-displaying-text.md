@@ -40,7 +40,7 @@ Eso es todo.
 Si abrimos el archivo index.html en chrome, simplemente haz doble-click, veremos nuestro mensage "Hola mundo!" mostrado en la página web.
 
 Ejemplo:
-[https://kennymingt.github.io/javascriptkenny/code/1-displaying-text/](https://kennymingt.github.io/javascriptkenny/code/1-displaying-text/)
+[http://javascript.kennyming.com/code/1-displaying-text/](http://javascript.kennyming.com/code/1-displaying-text/)
 
 Codigo:
 [https://github.com/kennymingt/javascriptkenny/tree/master/code/1-displaying-text](https://github.com/kennymingt/javascriptkenny/tree/master/code/1-displaying-text)
