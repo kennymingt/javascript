@@ -35,3 +35,9 @@ myButton.addEventListener('click', function(){
     messageElement.textContent = 'ButtonClicked'
 })
 ~~~
+
+Sample:
+[http://javascript.kennyming.com/code/2-buttons-in-javascript/](http://javascript.kennyming.com/code/2-buttons-in-javascript/)
+
+Code:
+[https://github.com/kennymingt/javascript/tree/master/code/2-buttons-in-javascript](https://github.com/kennymingt/javascript/tree/master/code/2-buttons-in-javascript)
