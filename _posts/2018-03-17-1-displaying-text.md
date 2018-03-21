@@ -36,3 +36,9 @@ info.textContent('Helloworld!")
 That's it.
 We can open our index.html file in chrome, just double click it, and we will see our hello world! message displayed on the webpage.
 
+Sample Page:
+[http://javascript.kennyming.com/code/1-displaying-text/](http://javascript.kennyming.com/code/1-displaying-text/)
+
+Sample Code:
+[https://github.com/kennymingt/javascript/tree/master/code/1-displaying-text](https://github.com/kennymingt/javascript/tree/master/code/1-displaying-text)
+
