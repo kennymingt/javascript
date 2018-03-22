@@ -1,3 +1,14 @@
+# Using Buttons in JavaScript
+
+* Console message for debug
+* Constants
+* Add Evevnts listeners to DOM Elements
+* functions
+
+We are going to display a message when we click a button.
+
+We have two elements with Id in the HTML, the button and a div to display a message.
+
 file: index.html
 ~~~
 <!DOCTYPE html>
@@ -16,6 +27,9 @@ file: index.html
 </body>
 </html>
 ~~~
+
+In our JavaScript file we grab a reference to elements in the HTML.
+We add a function to the Click event of the button.
 
 file: main.js
 ~~~
