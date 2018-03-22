@@ -1,4 +1,10 @@
-# Como mostrar un texto usando javascript
+---
+layout: page
+title: Cómo mostrar un texto usando javascript
+permalink: /1-mostrar-texto-en-javascript/
+---
+
+# Cómo mostrar un texto usando javascript
 
 Lo que vamos a ver:
 * Crear un archivo HTML básico
