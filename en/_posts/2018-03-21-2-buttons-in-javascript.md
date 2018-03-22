@@ -7,7 +7,7 @@ categories: javascript begginer
 
 * Console message for debug
 * Constants
-* Add Evevnts listeners to DOM Elements
+* Add Events listeners to DOM Elements
 * functions
 
 We are going to display a message when we click a button.
