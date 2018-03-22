@@ -5,8 +5,6 @@ date:   2018-03-21 16:00 +0800
 categories: javascript begginer
 ---
 
-# Using Buttons in JavaScript
-
 * Console message for debug
 * Constants
 * Add Evevnts listeners to DOM Elements

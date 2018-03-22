@@ -5,7 +5,6 @@ date:   2018-03-17 16:00 +0800
 categories: javascript begginer
 ---
 
-# Displaying text
 * Create a basic html
 * Set the page title
 * Display static header text
