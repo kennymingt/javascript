@@ -23,10 +23,10 @@ file: index.html
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Buttons in JavaScript</title>
+    <title>Botones en JavaScript</title>
 </head>
 <body>
-    <h1>Using Buttons App</h1>
+    <h1>Aplicación Botones</h1>
     <div id="messageElement"></div>
     <button id="myButton">Press Me</button>
     <script src="main.js"></script>
@@ -51,8 +51,8 @@ const myButton = document.getElementById('myButton')
 
 // Respond to click events
 myButton.addEventListener('click', function(){
-    console.log('Button Clicked!')
-    messageElement.textContent = 'ButtonClicked'
+    console.log('Click en el botón!')
+    messageElement.textContent = 'Click en el botón'
 })
 ~~~
 ![alt buttons in javascript]({{ site.baseurl }}/images/2-buttons-in-javascript.png)
