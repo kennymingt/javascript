@@ -56,7 +56,7 @@ myButton.addEventListener('click', function(){
     messageElement.textContent = 'ButtonClicked'
 })
 ~~~
-
+![alt buttons in javascript]({{ site.baseurl }}/images/2-buttons-in-javascript.png)
 Sample:
 [http://javascript.kennyming.com/code/2-buttons-in-javascript/](http://javascript.kennyming.com/code/2-buttons-in-javascript/)
 
