@@ -48,6 +48,8 @@ url: https://javascript.kennyming.com/es
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/es"
+production_url : http://javascript.kennyming.com/es/
+BASE_PATH : http://javascript.kennyming.com/es/
 
 #
 # !! You don't need to change any of the configuration flags below !!
