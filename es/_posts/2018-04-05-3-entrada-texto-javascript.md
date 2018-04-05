@@ -2,7 +2,7 @@
 layout: post
 title:  Entrada de texto en Javascript
 ---
-* campo o casilla de entrada de texto en HTML (input tag)
+* Campo o casilla de entrada de texto en HTML (input tag)
 * Leer el valor del campo de entrada de texto
 * Encadenar cadenas de texto
 
