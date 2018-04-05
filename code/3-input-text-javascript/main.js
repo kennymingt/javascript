@@ -13,5 +13,5 @@ const messageElement = document.getElementById('message')
 // This function gets the value of the name input and displays it in the message div element.
 button.addEventListener('click', function(){
     const name =nameInput.value
-    messageElement.textContent = name
+    messageElement.textContent = 'Hello ' + name
 })
