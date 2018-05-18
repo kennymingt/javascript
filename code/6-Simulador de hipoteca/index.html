@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Simulador de hipoteca</title>
+</head>
+<body>
+    <h1>Simulador de hipoteca</h1>
+    <div>Importe total del prestamo: <input type="number" id="importe"></div>
+    <div>Interés anual en %: <input type="number" id="interes"></div>
+    <div>Número de meses a pagar: <input type="number" id="meses"></div>
+
+    <!-- 
+        span, crea un elemento apartado pero en linea
+        Lo usaremos para poner la cantidad una vez calculada
+     -->
+    <div>Cuota mensual: <span id="cuota"></span></div>
+    <div>Total pagado: <span id="pagado"></span></div>
+    <div>Intereses pagados: <span id="interesesPagados"></span></div>
+
+    <div>
+        <button id="calcular">Calcular</button>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
