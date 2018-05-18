@@ -1,5 +1,8 @@
 /**
  * This application shows how to read the value from an input field.
+ * Esta applicación muestra como leer un valor de una entrada de texto.
+ * 
+ * Después de leer y enteder el código, intenta escribir la applicación desde cero, sin usar "copia y pega"
  */
 
 console.log('Starting App')
