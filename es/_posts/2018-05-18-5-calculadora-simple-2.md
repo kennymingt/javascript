@@ -142,7 +142,7 @@ function divide(){
 ~~~
 
 Ejemplo:
-[http://javascript.kennyming.com/code/4-calculadora-simple-2/](http://javascript.kennyming.com/code/4-calculadora-simple-2/)
+[http://javascript.kennyming.com/code/5-calculadora-simple-2/](http://javascript.kennyming.com/code/5-calculadora-simple-2/)
 
 Codigo:
-[https://github.com/kennymingt/javascript/tree/master/code/4-calculadora-simple-2](https://github.com/kennymingt/javascript/tree/master/code/4-calculadora-simple-2)
+[https://github.com/kennymingt/javascript/tree/master/code/5-calculadora-simple-2](https://github.com/kennymingt/javascript/tree/master/code/5-calculadora-simple-2)
