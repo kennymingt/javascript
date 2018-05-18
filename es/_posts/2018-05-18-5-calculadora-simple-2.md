@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Calculadora simple 1
+title:  Calculadora simple 2
 ---
 ![alt buttons in javascript]({{ site.baseurl }}/images/5-calculadora-simple.JPG)
 archivo: index.html

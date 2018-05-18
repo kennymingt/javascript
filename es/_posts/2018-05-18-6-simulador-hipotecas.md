@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Usando botones en JavaScript
+title:  6 Simulador de Hipotecas
 ---
 
 ![alt simulador hipotecas en javascript]({{ site.baseurl }}/images/6-simulador-hipotecas.JPG)
